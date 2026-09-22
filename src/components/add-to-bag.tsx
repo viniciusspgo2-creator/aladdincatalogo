@@ -11,6 +11,7 @@ import { cn } from '@/lib/utils'
 interface P {
   id: string; slug: string; name: string; brand: string; image: string | null
   price: number; oldPrice?: number | null; stock: number; unit: string; minQuantity: number
+  isNew?: boolean; featured?: boolean
 }
 
 export function AddToBag({ product }: { product: P }) {

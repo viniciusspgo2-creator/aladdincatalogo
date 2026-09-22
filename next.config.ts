@@ -2,6 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   reactStrictMode: false,
+  output: 'standalone',
   async redirects() {
     return [
       // marca Ziggy foi fundida com ZGY Brasil (mesma marca)
