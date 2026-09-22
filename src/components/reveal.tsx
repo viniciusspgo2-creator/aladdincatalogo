@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useRef, useState, type ReactNode } from 'react'
+import { useEffect, useRef, useState, type ElementType, type ReactNode } from 'react'
 import { cn } from '@/lib/utils'
 
 /** Lightweight scroll-reveal wrapper (IntersectionObserver, CSS transition). */
@@ -15,7 +15,7 @@ export function Reveal({
   delay?: number
   as?: 'div' | 'section' | 'li' | 'article'
 }) {
-  const ref = useRef<HTMLDivElement | null>(null)
+  const ref = useRef<HTMLElement | null>(null)
   const [visible, setVisible] = useState(false)
 
   useEffect(() => {
@@ -40,13 +40,15 @@ export function Reveal({
     return () => obs.disconnect()
   }, [])
 
+  const Component = Tag as ElementType
+
   return (
-    <Tag
+    <Component
       ref={ref}
       style={{ transitionDelay: `${delay}ms` }}
       className={cn('reveal-soft', visible && 'is-visible', className)}
     >
       {children}
-    </Tag>
+    </Component>
   )
 }
