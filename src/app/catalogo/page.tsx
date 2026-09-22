@@ -18,10 +18,12 @@ export default async function CatalogoPage() {
   let brands: { slug: string; name: string }[] = []
   let cats: { slug: string; name: string; subs: { slug: string; name: string }[] }[] = []
   try {
-    ;[brands, cats] = await Promise.all([
+    const [b, c] = await Promise.all([
       db.brand.findMany({ orderBy: { name: 'asc' }, select: { slug: true, name: true } }),
       db.category.findMany({ orderBy: { order: 'asc' }, select: { slug: true, name: true, subs: { orderBy: { order: 'asc' }, select: { slug: true, name: true } } } }),
     ])
+    brands = b
+    cats = c
   } catch (e) {
     console.error('catalogo filters error', e)
   }
