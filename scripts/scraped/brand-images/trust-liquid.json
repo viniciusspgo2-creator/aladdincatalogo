@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "vape liquid bottles dark premium"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "vape liquid bottles dark premium",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a90f437c6ef3.jpg",
+      "caption": "",
+      "source": "Vape ZOzO",
+      "original_width": "1080px",
+      "original_height": "1350px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9503ccbc9a24.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/49d0e0d9f52e.jpg",
+      "caption": "",
+      "source": "V4 Vapour",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    }
+  ]
+}

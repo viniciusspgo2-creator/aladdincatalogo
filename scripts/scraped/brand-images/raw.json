@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "RAW rolling papers black and gold brand banner"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "RAW rolling papers black and gold brand banner",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6ea9d63f5256.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "2000px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/144db5041b68.jpg",
+      "caption": "",
+      "source": "genuineraw.com",
+      "original_width": "3200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c0599df71d36.webp",
+      "caption": "",
+      "source": "Zig-Zag",
+      "original_width": "2500px",
+      "original_height": "900px"
+    }
+  ]
+}

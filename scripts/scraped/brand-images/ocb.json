@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "OCB rolling papers premium brand banner"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "OCB rolling papers premium brand banner",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/306c5671face.png",
+      "caption": "",
+      "source": "OCB USA Rolling Paper Store",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4873df5aa5b8.jpg",
+      "caption": "",
+      "source": "OCB USA Rolling Paper Store",
+      "original_width": "1946px",
+      "original_height": "1946px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b091fc43dde2.jpg",
+      "caption": "",
+      "source": "Bong Warehouse",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

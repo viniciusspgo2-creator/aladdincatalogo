@@ -1,0 +1,1706 @@
+[
+ {
+  "categoria_id": 4532730,
+  "nome": "BLACK ERVA",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 4532733,
+    "nome": "ACESSÓRIOS",
+    "representada_id": 454961,
+    "subcategorias": [
+     {
+      "categoria_id": 4534908,
+      "nome": "ANÉIS DE VEDACÃO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4533897,
+      "nome": "BOMBA DE CHIMARRÃO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4533896,
+      "nome": "BOMBA DE TERERÉ",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4534008,
+      "nome": "COPO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4534915,
+      "nome": "CUIA CHIMARRÃO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4534916,
+      "nome": "GARRAFA TÉRMICA 1,3L",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4534745,
+      "nome": "GARRAFA TÉRMICA 2,5L",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4534888,
+      "nome": "GARRAFA TÉRMICA 4L",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4534742,
+      "nome": "GARRAFA TÉRMICA 800ML",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4534909,
+      "nome": "KIT BÁSICO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4534913,
+      "nome": "KIT INOX",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4534911,
+      "nome": "PINGADEIRA",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4534912,
+      "nome": "PORTA COPO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4534914,
+      "nome": "PORTA ERVA BLACK",
+      "representada_id": 454961
+     }
+    ]
+   },
+   {
+    "categoria_id": 4532735,
+    "nome": "ERVAS",
+    "representada_id": 454961,
+    "subcategorias": [
+     {
+      "categoria_id": 4532738,
+      "nome": "CHIMARRÃO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4532736,
+      "nome": "TERERÉ",
+      "representada_id": 454961
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "categoria_id": 1388265,
+  "nome": "CHARUTOS E TABACOS",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 1388448,
+    "nome": "AMSTERDAM",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1388437,
+    "nome": "HI TOBACCO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4627682,
+    "nome": "JUNGLE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1796121,
+    "nome": "LA REVOLUCION",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3334916,
+    "nome": "NA SEDA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2466409,
+    "nome": "ORIGINAL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4433516,
+    "nome": "PHILLIES TITAN",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1388441,
+    "nome": "RAINBOW",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2272737,
+    "nome": "SELVA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4098887,
+    "nome": "SESH",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4692032,
+    "nome": "TABAKER NATURAL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2171608,
+    "nome": "TABAQUIN",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3475735,
+    "nome": "TABEAR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3334729,
+    "nome": "TERRA TABAK",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3741157,
+    "nome": "THE OG",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3701549,
+    "nome": "TONABÊ",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2146430,
+    "nome": "YERBA",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 1399180,
+  "nome": "CIGARRO DE PALHA",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 3383998,
+    "nome": "BACCO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2272736,
+    "nome": "DIPALHA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2263238,
+    "nome": "INOVA PAIOL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2902340,
+    "nome": "MANDELLE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4282690,
+    "nome": "PAPAYA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1438072,
+    "nome": "PIRACANJUBA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1399181,
+    "nome": "PRIMEIRO PALHEIRO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3266259,
+    "nome": "SO MENEIZ",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1513947,
+    "nome": "SOUZA PAIOL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3384004,
+    "nome": "TERRA TOBAK",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1453769,
+    "nome": "TIMBAL",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 3149737,
+  "nome": "CITY GIRLS",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 3218721,
+    "nome": "CITY GIRLS LABIOS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3149740,
+    "nome": "CITY GIRLS OLHOS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3149739,
+    "nome": "CITY GIRLS ROSTO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3293124,
+    "nome": "CITY GIRLS SOBRANCELHA",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 2359622,
+  "nome": "DAILUS",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 3460312,
+    "nome": "BASE LÍQUIDA",
+    "representada_id": 454961,
+    "subcategorias": [
+     {
+      "categoria_id": 4207293,
+      "nome": "COVER FIX",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207294,
+      "nome": "ULTRA COBERTURA",
+      "representada_id": 454961
+     }
+    ]
+   },
+   {
+    "categoria_id": 4264206,
+    "nome": "BATOM CREMOSO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3091541,
+    "nome": "BATOM LÍQUIDO MATTE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3487486,
+    "nome": "BLINDAGEM",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207304,
+    "nome": "BLUSH",
+    "representada_id": 454961,
+    "subcategorias": [
+     {
+      "categoria_id": 4207305,
+      "nome": "COMPACTO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4239025,
+      "nome": "ILUMINADOR",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207306,
+      "nome": "STICK",
+      "representada_id": 454961
+     }
+    ]
+   },
+   {
+    "categoria_id": 4272815,
+    "nome": "BODY SPLASH",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4272816,
+    "nome": "BRUMA FACIAL FIX",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207365,
+    "nome": "CANETA DELINEADORA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207366,
+    "nome": "CERA PARA SOBRANCELHAS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207369,
+    "nome": "CONTORNO STICK",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207371,
+    "nome": "CORRETIVO LÍQUIDO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207373,
+    "nome": "ESMALTES",
+    "representada_id": 454961,
+    "subcategorias": [
+     {
+      "categoria_id": 4207374,
+      "nome": "ATRÁS DO ARCO-ÍRIS",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4264201,
+      "nome": "BABADO E GLITERIA",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207375,
+      "nome": "CALIFORNIA ICE CREAM",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207376,
+      "nome": "CHOCO CHERRY",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4364982,
+      "nome": "DAI GOODS",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4419823,
+      "nome": "DEVENDO E LUXANDO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207385,
+      "nome": "FAÇA SUA SORTE",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207403,
+      "nome": "FINALIZAÇÃO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4419863,
+      "nome": "FLA. MIMOS",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207677,
+      "nome": "FORTILON",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207386,
+      "nome": "FUNKY FLOWER",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4708823,
+      "nome": "GIMME GUMMY",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4433499,
+      "nome": "GOOD VIBEZINHA",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4465696,
+      "nome": "JELLY POP",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207388,
+      "nome": "LHAMASTÊ",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4465695,
+      "nome": "ME CHAMA NO ZOOM",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4264203,
+      "nome": "MILK NAILS",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4334458,
+      "nome": "MORANGO DO AMOR",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207391,
+      "nome": "NUDE",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207392,
+      "nome": "PREPARAÇÃO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4404122,
+      "nome": "QUERIDINHOS CINTILANTE",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207393,
+      "nome": "QUERIDINHOS CREMOSO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207399,
+      "nome": "QUERIDINHOS TOP COAT",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207397,
+      "nome": "QUERIDINHOS TRANSPARENTE",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4207400,
+      "nome": "SNOWLAND",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4437491,
+      "nome": "TOP CHROME",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4582535,
+      "nome": "ÚLTIMA CHAMADA",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4264205,
+      "nome": "XÔ CARENTENA",
+      "representada_id": 454961
+     }
+    ]
+   },
+   {
+    "categoria_id": 4272825,
+    "nome": "FORTILON",
+    "representada_id": 454961,
+    "subcategorias": [
+     {
+      "categoria_id": 4272826,
+      "nome": "ANTITRANSPIRANTE FORTILON",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4272827,
+      "nome": "HIDRATANTE FORTILON",
+      "representada_id": 454961
+     }
+    ]
+   },
+   {
+    "categoria_id": 4207406,
+    "nome": "GEL PARA SOBRANCELHAS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4272891,
+    "nome": "GELATO HIDRATANTE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4708824,
+    "nome": "GELEIA CREMOSA HIDRATANTE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4708825,
+    "nome": "GELEIA ESFOLIANTE CORPORAL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4249859,
+    "nome": "GLOSS LABIAL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207408,
+    "nome": "LÁPIS PARA CONTORNO LABIAL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207407,
+    "nome": "LÁPIS PARA OLHOS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207419,
+    "nome": "LAPISEIRA PARA SOBRANCELHA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207425,
+    "nome": "LAPISEIRA RETRÁTIL PARA OLHOS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207426,
+    "nome": "LENÇO MICELAR DEMAQUILANTE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207427,
+    "nome": "LIP GLITTER",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207431,
+    "nome": "LIP GLOSSY",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4264200,
+    "nome": "LIP OIL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207458,
+    "nome": "LIP TINT",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207659,
+    "nome": "MÁSCARA PARA CÍLIOS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207671,
+    "nome": "MÁSCARA PARA SOBRANCELHAS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4587089,
+    "nome": "PALETA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207672,
+    "nome": "PÓ COMPACTO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207673,
+    "nome": "PÓ SOLTO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4272807,
+    "nome": "PÓ TRANSLÚCIDO ULTRAFINO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4208037,
+    "nome": "PROVADOR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4264202,
+    "nome": "REMOVEDOR DE ESMALTE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4272818,
+    "nome": "SABONETE ESFOLIANTE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4207367,
+    "nome": "SKINCARE",
+    "representada_id": 454961,
+    "subcategorias": [
+     {
+      "categoria_id": 4207368,
+      "nome": "SWEET SKIN",
+      "representada_id": 454961
+     }
+    ]
+   },
+   {
+    "categoria_id": 4207675,
+    "nome": "SOMBRA LÍQUIDA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4404124,
+    "nome": "TINT BALM",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4208145,
+    "nome": "VACUUM",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 3877145,
+  "nome": "DOHA PROFESSIONAL",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 3883892,
+    "nome": "ACIDIFICANTE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3877146,
+    "nome": "COLORAÇÃO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3877148,
+    "nome": "CONDICIONADOR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3889934,
+    "nome": "CREME OXIDANTE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3883890,
+    "nome": "LEAVE-IN",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3889943,
+    "nome": "MÁSCARA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3883891,
+    "nome": "ÓLEO CAPILAR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3880005,
+    "nome": "PÓ DESCOLORANTE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3889947,
+    "nome": "REALINHAMENTO CAPILAR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3880029,
+    "nome": "SÉRUM ATIVADOR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3877147,
+    "nome": "SHAMPOO",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 1388395,
+  "nome": "ESSÊNCIA",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 2093083,
+    "nome": "TRUST LIQUID",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 1388408,
+  "nome": "FUMO",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 1799773,
+    "nome": "BLACKJACK",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1388417,
+    "nome": "GOLD SMOKE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4562182,
+    "nome": "NAY",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1388422,
+    "nome": "ZGY BRASIL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1388423,
+    "nome": "ZOMO",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 1985911,
+  "nome": "GARRAFA TÉRMICA",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 2427263,
+    "nome": "BLACK HOOKAH",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1985913,
+    "nome": "CRONOS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3888581,
+    "nome": "ELEGANCE",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 1451302,
+  "nome": "GÁS / FLUÍDO",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 3245921,
+    "nome": "HIT",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2764795,
+    "nome": "ZENGAS",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 1388452,
+  "nome": "HEAD-SHOP",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 4411171,
+    "nome": "ALÇAS E CORDÕES",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4407157,
+    "nome": "ANEL DE SILICONE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2844557,
+    "nome": "BANDEJA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3672207,
+    "nome": "BANDEJA EM MADEIRA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4410343,
+    "nome": "BITUQUEIRA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2844572,
+    "nome": "BONG DE ACRILICO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2844866,
+    "nome": "BONG DE BORRACHA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2844571,
+    "nome": "BONG DE VIDRO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3470916,
+    "nome": "BOWL DE VIDRO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2844564,
+    "nome": "BOX PARA TABACO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3672191,
+    "nome": "CACHIMBO DE METAL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4411068,
+    "nome": "CARTEIRA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3487475,
+    "nome": "CASE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3671182,
+    "nome": "CIGARREIRA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2499990,
+    "nome": "CINZEIRO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4433515,
+    "nome": "CORTADOR DE CHARUTO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2499976,
+    "nome": "CUIA DE SILICONE",
+    "representada_id": 454961,
+    "subcategorias": [
+     {
+      "categoria_id": 4571828,
+      "nome": "ABDUZIDO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 2499977,
+      "nome": "SQUADAFUM",
+      "representada_id": 454961
+     }
+    ]
+   },
+   {
+    "categoria_id": 4411066,
+    "nome": "DESMAROLA E CAPTERPLUS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4411227,
+    "nome": "FILTROS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4411243,
+    "nome": "GLASS TUBE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2844868,
+    "nome": "INALADOR DE RAPÉ",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2844862,
+    "nome": "MAQUINA DE BOLAR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3467827,
+    "nome": "NECTAR COLECTOR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2500015,
+    "nome": "PIPE DE METAL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4411132,
+    "nome": "PIPE DE SILICONE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2500076,
+    "nome": "PIPE DE VIDRO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4411133,
+    "nome": "PITEIRA DE VIDRO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4411228,
+    "nome": "PITEIRAS DE PAPEL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2844808,
+    "nome": "POTE DE PLASTICO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2499986,
+    "nome": "POTE DE SILICONE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2500079,
+    "nome": "POTE DE VIDRO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4411245,
+    "nome": "SEDAS",
+    "representada_id": 454961,
+    "subcategorias": [
+     {
+      "categoria_id": 4411246,
+      "nome": "ALEDA",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4411247,
+      "nome": "BEM BOLADO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4411251,
+      "nome": "BLUNT",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4690165,
+      "nome": "ELEMENTS",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4411252,
+      "nome": "KEEP ROLLING",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4411253,
+      "nome": "KING",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4411254,
+      "nome": "LION ROLLING CIRCUS",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4411255,
+      "nome": "OCB",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4411290,
+      "nome": "PAPELITO",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4411291,
+      "nome": "PAY PAY",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4690164,
+      "nome": "RAW",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4411292,
+      "nome": "SMOKING",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4411295,
+      "nome": "SQUADAFUM",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4411296,
+      "nome": "TATU DO BEM",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4411297,
+      "nome": "TOP",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4411298,
+      "nome": "ZOMO",
+      "representada_id": 454961
+     }
+    ]
+   },
+   {
+    "categoria_id": 4411299,
+    "nome": "SHOUDER BAG",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4407140,
+    "nome": "TELA PARA CACHIMBO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3757832,
+    "nome": "TESOURAS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4411300,
+    "nome": "TRITURADORES",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3897446,
+    "nome": "TUBO PARA GUARDAR CIGARRO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4407132,
+    "nome": "UMIDIFICADOR DE FUMO",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 4218720,
+  "nome": "INCENSO",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 4218722,
+    "nome": "BIC BRAND",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4218723,
+    "nome": "INDIA SOUL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4218721,
+    "nome": "SATYA",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 1450859,
+  "nome": "ISQUEIROS",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 1527198,
+    "nome": "CLIPPER",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3293331,
+    "nome": "FIRE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3359071,
+    "nome": "GTI",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1450860,
+    "nome": "HIT",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1849740,
+    "nome": "OCB",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3340531,
+    "nome": "OFICIAL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1510757,
+    "nome": "RONSON",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 3989337,
+  "nome": "KELLDRIN",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 3989345,
+    "nome": "AR GRADÁVEL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3989418,
+    "nome": "BLOCK Nº2",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3989344,
+    "nome": "ESPUMA DE BARBEAR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3989425,
+    "nome": "LIMPA TUDO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3989420,
+    "nome": "MASSAGEADOR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3989338,
+    "nome": "PERFUME PÉ",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3989386,
+    "nome": "REPELENTE",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 3744620,
+  "nome": "LABOTRAT",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 3744643,
+    "nome": "ARGILA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744719,
+    "nome": "BODY SPLASH",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744947,
+    "nome": "CREME BRONZEADOR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744625,
+    "nome": "CREME DE RACHADURAS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744626,
+    "nome": "CREME HIDRATANTE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744949,
+    "nome": "CREME PARAFINA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3819563,
+    "nome": "DERMO SKIN",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744621,
+    "nome": "ESFOLIANTE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744623,
+    "nome": "GEL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744652,
+    "nome": "HIDRATANTE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744950,
+    "nome": "KIT BANHO DE LUA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744655,
+    "nome": "KIT SENS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744951,
+    "nome": "LABOTRATPRO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744642,
+    "nome": "MÁSCARA FACIAL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744622,
+    "nome": "ÓLEO CORPORAL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3759173,
+    "nome": "PACK DIA A DIA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744651,
+    "nome": "SABONETE LÍQUIDO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744654,
+    "nome": "SAIS ESPUMANTES",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3744718,
+    "nome": "SHOWER GEL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3819589,
+    "nome": "TALCO PRÉ-DEPILATÓRIO",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 1614784,
+  "nome": "MAÇARICO",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 4642386,
+    "nome": "FIRESTAR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3340532,
+    "nome": "OFICIAL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 2821582,
+    "nome": "VOLCANO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4642387,
+    "nome": "WORLDFIRE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 1614785,
+    "nome": "ZENGAZ",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 3967455,
+  "nome": "MY HEALTH",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 3968235,
+    "nome": "ÁLCOOL GEL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3968236,
+    "nome": "GELO SPRAY",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3968118,
+    "nome": "KINGS MEN CARE",
+    "representada_id": 454961,
+    "subcategorias": [
+     {
+      "categoria_id": 3968119,
+      "nome": "ESPUMA DE BARBEAR",
+      "representada_id": 454961
+     }
+    ]
+   },
+   {
+    "categoria_id": 3967456,
+    "nome": "MOOD CARE",
+    "representada_id": 454961,
+    "subcategorias": [
+     {
+      "categoria_id": 3968125,
+      "nome": "ÁGUA TERMAL",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4407551,
+      "nome": "ANTITRANSPIRANTE CREME",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4407552,
+      "nome": "ANTITRANSPIRANTE ROLL ONN",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 4407600,
+      "nome": "ANTITRANSPIRANTE SPIN",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 3967457,
+      "nome": "DESODORANTE ANTITRANSPIRANTE",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 3967773,
+      "nome": "DESODORANTE PARA PÉS",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 3967774,
+      "nome": "HAIR SPRAY FIXADOR",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 3967912,
+      "nome": "MÁSCARA FACIAL",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 3967905,
+      "nome": "SHAMPOO A SECO",
+      "representada_id": 454961
+     }
+    ]
+   },
+   {
+    "categoria_id": 3968204,
+    "nome": "REPELLERE",
+    "representada_id": 454961,
+    "subcategorias": [
+     {
+      "categoria_id": 3968234,
+      "nome": "PÓS PICADA",
+      "representada_id": 454961
+     },
+     {
+      "categoria_id": 3968205,
+      "nome": "REPELENTE DE INSETOS",
+      "representada_id": 454961
+     }
+    ]
+   },
+   {
+    "categoria_id": 3968128,
+    "nome": "SUN PRIME",
+    "representada_id": 454961,
+    "subcategorias": [
+     {
+      "categoria_id": 3968129,
+      "nome": "PROTETOR SOLAR",
+      "representada_id": 454961
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "categoria_id": 3968297,
+  "nome": "MY PARTY",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 3968298,
+    "nome": "TINTA SPRAY COLORIDA",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 3968293,
+  "nome": "MY PLACE",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 3968294,
+    "nome": "NEUTRALIZADOR DE ODORES",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 4407976,
+  "nome": "NARGUILÉ",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 4407977,
+    "nome": "ABAFADOR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4407978,
+    "nome": "BOLSA PARA NARGUILÉ",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4407980,
+    "nome": "BORRACHAS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4407986,
+    "nome": "CARVÃO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4408132,
+    "nome": "CONDUITE E MANGUEIRAS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4407993,
+    "nome": "CONTROLADOR DE CALOR KALOUD",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4408000,
+    "nome": "DIFUSOR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4408004,
+    "nome": "ESCOVAS E ESPONJAS PARA LIMPEZA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4408067,
+    "nome": "FOGAREIROS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4408071,
+    "nome": "FOLHAS DE ALUMÍNIO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4408094,
+    "nome": "GARFO COM FURADOR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4579035,
+    "nome": "HOOVER",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4408133,
+    "nome": "MOLA PARA MANGUEIRA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4410286,
+    "nome": "NARGUILÉ COMPLETO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4410292,
+    "nome": "PEGADOR",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4410297,
+    "nome": "PITEIRAS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4410299,
+    "nome": "PRATO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4410317,
+    "nome": "ROSH",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4410324,
+    "nome": "STEM",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4410326,
+    "nome": "TAG DE FURAÇÃO",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4410332,
+    "nome": "TAPETE",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 4410333,
+    "nome": "VASOS",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 1388428,
+  "nome": "RAPÉ",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 1388429,
+    "nome": "JURITI",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3028117,
+    "nome": "XINGU",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3995799,
+    "nome": "ZERO GRAU",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 3705923,
+  "nome": "SFFUMATO BEAUTY",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 3705927,
+    "nome": "ESPONJA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3705928,
+    "nome": "KIT DE PINCÉIS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3705926,
+    "nome": "PINÇA",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3705925,
+    "nome": "PINCEL",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3706517,
+    "nome": "PLACA DE MAQUIAGEM",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 3144687,
+  "nome": "SP COLORS",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 3493212,
+    "nome": "SP ACESSÓRIOS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3218930,
+    "nome": "SP LABIOS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3144689,
+    "nome": "SP OLHOS",
+    "representada_id": 454961
+   },
+   {
+    "categoria_id": 3144688,
+    "nome": "SP ROSTO",
+    "representada_id": 454961
+   }
+  ]
+ },
+ {
+  "categoria_id": 3672879,
+  "nome": "SUPER PODERES",
+  "representada_id": 454961,
+  "subcategorias": [
+   {
+    "categoria_id": 3672882,
+    "nome": "BRILHO LABIAL MORANGO",
+    "representada_id": 454961
+   }
+  ]
+ }
+]

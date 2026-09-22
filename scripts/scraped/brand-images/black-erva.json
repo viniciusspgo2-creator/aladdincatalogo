@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "erva mate chimarrão cuia bomba"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "erva mate chimarrão cuia bomba",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/93144aeeb637.jpg",
+      "caption": "",
+      "source": "Amazon",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/34cf3b66fdcd.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/71c97ce1d259.webp",
+      "caption": "",
+      "source": "Saratoga Tea & Honey Co.",
+      "original_width": "1365px",
+      "original_height": "2048px"
+    }
+  ]
+}

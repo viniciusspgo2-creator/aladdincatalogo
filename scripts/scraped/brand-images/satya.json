@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Satya incense sticks premium box"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Satya incense sticks premium box",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/54f77422bd97.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b11e6fe928fc.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "801px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/520fcf59118d.jpg",
+      "caption": "",
+      "source": "Awakenings | Crystal Shop & Metaphysical Store in Omaha, NE",
+      "original_width": "1090px",
+      "original_height": "1089px"
+    }
+  ]
+}

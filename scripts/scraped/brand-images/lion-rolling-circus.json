@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Lion Rolling Circus brand artwork"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Lion Rolling Circus brand artwork",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/910e620d2111.jpg",
+      "caption": "",
+      "source": "Smoke Cartel",
+      "original_width": "2696px",
+      "original_height": "4045px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8cc6048e19e9.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "846px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d3f68a2f4ac3.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1600px"
+    }
+  ]
+}

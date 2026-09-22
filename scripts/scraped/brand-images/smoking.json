@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Smoking papers gold brand banner"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Smoking papers gold brand banner",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/28c6a6803b74.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "940px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3eaa68d893c0.jpg",
+      "caption": "",
+      "source": "Davidoff Cigars",
+      "original_width": "1072px",
+      "original_height": "1487px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/288cbbf152c3.jpg",
+      "caption": "",
+      "source": "Outontrip",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    }
+  ]
+}

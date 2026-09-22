@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Zomo hookah tobacco brand gold dark"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Zomo hookah tobacco brand gold dark",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7369f2834961.jpg",
+      "caption": "",
+      "source": "Icon Hookah Store",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/67471ef44ad2.png",
+      "caption": "",
+      "source": "utopiaclouds.com",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c0648624c5eb.png",
+      "caption": "",
+      "source": "utopiaclouds.com",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+// Aladdin Premium Catalog — Prisma schema (PostgreSQL / Neon-ready)
+// IMPORTANT: provider MUST stay "postgresql" (Vercel + Neon). Never switch to sqlite.
+
+generator client {
+  provider      = "prisma-client-js"
+  binaryTargets = ["native", "rhel-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String   @id @default(cuid())
+  username     String   @unique
+  passwordHash String
+  name         String   @default("Administrador")
+  role         String   @default("ADMIN") // ADMIN | EDITOR
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model Brand {
+  id          String   @id @default(cuid())
+  name        String
+  slug        String   @unique
+  tagline     String?
+  description String?
+  logoUrl     String?
+  coverUrl    String?
+  story       String?
+  accentColor String   @default("#C9A227")
+  featured    Boolean  @default(false)
+  order       Int      @default(0)
+  searchNorm  String   @default("")
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  products    Product[]
+  videos      BrandVideo[]
+
+  @@index([featured])
+  @@index([order])
+}
+
+model BrandVideo {
+  id         String   @id @default(cuid())
+  brandId    String
+  title      String
+  youtubeUrl String
+  order      Int      @default(0)
+  brand      Brand    @relation(fields: [brandId], references: [id], onDelete: Cascade)
+
+  @@index([brandId])
+}
+
+model Category {
+  id         String        @id @default(cuid())
+  name       String
+  slug       String        @unique
+  icon       String?
+  order      Int           @default(0)
+  searchNorm String        @default("")
+  subs       SubCategory[]
+  products   Product[]
+  createdAt  DateTime      @default(now())
+  updatedAt  DateTime      @updatedAt
+}
+
+model SubCategory {
+  id         String    @id @default(cuid())
+  name       String
+  slug       String
+  categoryId String
+  order      Int       @default(0)
+  searchNorm String    @default("")
+  category   Category  @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  products   Product[]
+
+  @@unique([categoryId, slug])
+  @@index([categoryId])
+}
+
+model Product {
+  id            String         @id @default(cuid())
+  name          String
+  slug          String         @unique
+  code          String?
+  brandId       String
+  categoryId    String?
+  subCategoryId String?
+  description   String?
+  price         Float          @default(0)
+  oldPrice      Float?
+  minQuantity   Int            @default(1)
+  stock         Int            @default(0)
+  unit          String         @default("UN")
+  soldCount     Int            @default(0)
+  featured      Boolean        @default(false)
+  isNew         Boolean        @default(false)
+  onSale        Boolean        @default(false)
+  active        Boolean        @default(true)
+  searchNorm    String         @default("")
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+  brand         Brand          @relation(fields: [brandId], references: [id], onDelete: Cascade)
+  category      Category?      @relation(fields: [categoryId], references: [id], onDelete: SetNull)
+  subCategory   SubCategory?   @relation(fields: [subCategoryId], references: [id], onDelete: SetNull)
+  images        ProductImage[]
+  orderItems    OrderItem[]
+
+  @@index([brandId])
+  @@index([categoryId])
+  @@index([subCategoryId])
+  @@index([featured])
+  @@index([isNew])
+  @@index([active])
+  @@index([soldCount])
+  @@index([name])
+  @@index([searchNorm])
+}
+
+model ProductImage {
+  id        String  @id @default(cuid())
+  productId String
+  url       String
+  alt       String?
+  order     Int     @default(0)
+  product   Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  @@index([productId])
+}
+
+model Customer {
+  id        String   @id @default(cuid())
+  name      String
+  shopName  String?
+  email     String?
+  phone     String?
+  city      String?
+  state     String?
+  createdAt DateTime @default(now())
+  orders    Order[]
+
+  @@index([name])
+}
+
+model Order {
+  id         String      @id @default(cuid())
+  code       String      @unique
+  customerId String?
+  customerName String
+  contact    String?
+  notes      String?
+  total      Float       @default(0)
+  itemCount  Int         @default(0)
+  status     String      @default("GERADO") // GERADO | ENVIADO | CONCLUIDO | CANCELADO
+  createdAt  DateTime    @default(now())
+  updatedAt  DateTime    @updatedAt
+  customer   Customer?   @relation(fields: [customerId], references: [id], onDelete: SetNull)
+  items      OrderItem[]
+
+  @@index([createdAt])
+  @@index([status])
+}
+
+model OrderItem {
+  id        String  @id @default(cuid())
+  orderId   String
+  productId String?
+  name      String
+  code      String?
+  brandName String?
+  quantity  Int
+  unitPrice Float
+  subtotal  Float
+  order     Order   @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  product   Product? @relation(fields: [productId], references: [id], onDelete: SetNull)
+
+  @@index([orderId])
+}
+
+model Banner {
+  id        String   @id @default(cuid())
+  title     String
+  subtitle  String?
+  imageUrl  String?
+  linkUrl   String?
+  placement String   @default("HOME") // HOME | CATALOG
+  active    Boolean  @default(true)
+  order     Int      @default(0)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([placement])
+}
+
+model SiteSettings {
+  id             String   @id @default("singleton")
+  brandName      String   @default("Aladdin Distribuidora")
+  heroTitle      String   @default("A nova geração da tabacaria começa aqui")
+  heroSubtitle   String   @default("Distribuidora premium de tabacaria, headshop e lifestyle. Marcas globais, curadoria de verdade e preço de atacado para o seu negócio crescer.")
+  address        String   @default("Av. Dr. Ismerino Soares de Carvalho, 292 — St. Aeroporto, Goiânia — GO, 74075-040")
+  phone          String   @default("(62) 99546-0509")
+  whatsapp       String   @default("5562995460509")
+  email          String   @default("contato@aladdindistribuidora.com.br")
+  instagram      String   @default("aladdin.distribuidora")
+  repName        String   @default("Equipe Comercial Aladdin")
+  repEmail       String   @default("contato@aladdindistribuidora.com.br")
+  repPhone       String   @default("(62) 99546-0509")
+  cnpj           String   @default("00.000.000/0001-00")
+  businessHours  String   @default("Seg a Sex 08h–18h • Sáb 08h–12h")
+  gaId           String?
+  gtmId          String?
+  updatedAt      DateTime @updatedAt
+}
+
+model BlogPost {
+  id          String   @id @default(cuid())
+  title       String
+  slug        String   @unique
+  excerpt     String
+  content     String
+  category    String   @default("Guia do Lojista")
+  coverUrl    String?
+  author      String   @default("Equipe Aladdin")
+  readTime    Int      @default(5)
+  keywords    String?
+  published   Boolean  @default(true)
+  publishedAt DateTime @default(now())
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([publishedAt])
+  @@index([category])
+}

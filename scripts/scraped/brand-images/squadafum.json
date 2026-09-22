@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Squadafum hookah brand premium dark"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Squadafum hookah brand premium dark",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2447f13073dc.webp",
+      "caption": "",
+      "source": "Squadafum",
+      "original_width": "1550px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/45d674b5128c.webp",
+      "caption": "",
+      "source": "Squadafum",
+      "original_width": "2048px",
+      "original_height": "1365px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f872da6fb849.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "1910px",
+      "original_height": "1000px"
+    }
+  ]
+}

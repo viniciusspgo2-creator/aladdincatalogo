@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Elements rolling papers brand cone"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Elements rolling papers brand cone",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a05e3ff8ef0d.png",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f25ab43400f2.webp",
+      "caption": "",
+      "source": "Pulsar Shop",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c61607d8cdf6.jpg",
+      "caption": "",
+      "source": "Cannatron",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

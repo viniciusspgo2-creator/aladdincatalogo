@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Kaloud hookah heat management device"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Kaloud hookah heat management device",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/51402adda6e3.jpg",
+      "caption": "",
+      "source": "Kaloud",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/71272aa6ce0b.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b6d8a1ac90b1.jpg",
+      "caption": "",
+      "source": "Zepto",
+      "original_width": "2100px",
+      "original_height": "2100px"
+    }
+  ]
+}

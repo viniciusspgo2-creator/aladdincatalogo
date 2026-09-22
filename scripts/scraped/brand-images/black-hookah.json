@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Black Hookah brand narguile"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Black Hookah brand narguile",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b5fa16b8da52.png",
+      "caption": "",
+      "source": "www.shishabox.club",
+      "original_width": "1254px",
+      "original_height": "1254px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7bc1b553e618.jpg",
+      "caption": "",
+      "source": "Alibaba.com",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9cfd11cee50f.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "796px",
+      "original_height": "1000px"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Zengaz jet flame lighter black"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Zengaz jet flame lighter black",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b3f9d988f59e.jpg",
+      "caption": "",
+      "source": "Alibaba.com",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0132e04dff49.jpg",
+      "caption": "",
+      "source": "Amazon.sg",
+      "original_width": "1920px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/46e7cc2e8492.jpg",
+      "caption": "",
+      "source": "Alibaba.com",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}
