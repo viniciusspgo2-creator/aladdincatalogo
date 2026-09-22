@@ -20,20 +20,17 @@ const schema = z.object({
   subCategoryId: z.string().optional(),
   description: z.string().optional(),
   price: z.coerce.number().min(0, 'Preço inválido'),
-  oldPrice: z.preprocess(
-    (v) => (v === '' || v === null || v === undefined ? undefined : v),
-    z.coerce.number().min(0).optional(),
-  ),
+  oldPrice: z.coerce.number().min(0).optional().or(z.literal('')),
   minQuantity: z.coerce.number().int().min(1),
   stock: z.coerce.number().int().min(0),
   unit: z.string().min(1),
-  featured: z.boolean(),
-  isNew: z.boolean(),
-  onSale: z.boolean(),
-  active: z.boolean(),
-  images: z.array(z.string()),
+  featured: z.boolean().default(false),
+  isNew: z.boolean().default(false),
+  onSale: z.boolean().default(false),
+  active: z.boolean().default(true),
+  images: z.array(z.string()).default([]),
 })
-type FormData = z.output<typeof schema>
+type FormData = z.infer<typeof schema>
 
 interface Opt { id: string; name: string; subs?: { id: string; name: string }[] }
 
@@ -45,8 +42,7 @@ export function ProductForm({ productId }: { productId?: string }) {
   const router = useRouter()
 
   const { register, handleSubmit, watch, setValue, formState: { errors }, reset } = useForm<FormData>({
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    resolver: zodResolver(schema) as any,
+    resolver: zodResolver(schema),
     defaultValues: { name: '', brandId: '', categoryId: '', subCategoryId: '', description: '', price: 0, oldPrice: undefined, minQuantity: 1, stock: 0, unit: 'UN', featured: false, isNew: false, onSale: false, active: true, images: [] },
   })
 
@@ -76,7 +72,7 @@ export function ProductForm({ productId }: { productId?: string }) {
       const res = await fetch(productId ? `/api/admin/products/${productId}` : '/api/admin/products', {
         method: productId ? 'PUT' : 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ ...d, images: d.images, oldPrice: d.oldPrice ?? null, code: d.code || null }),
+        body: JSON.stringify({ ...d, images: d.images, oldPrice: d.oldPrice === '' ? null : d.oldPrice, code: d.code || null }),
       })
       const json = await res.json()
       if (!res.ok) throw new Error(json.error || 'Falha ao salvar')

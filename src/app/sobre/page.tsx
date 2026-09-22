@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import { db } from '@/lib/db'
 import { buildMetadata, breadcrumbJsonLd, canonical, SITE } from '@/lib/seo'
 import { Breadcrumbs } from '@/components/breadcrumbs'
@@ -15,11 +16,10 @@ export const revalidate = 3600
 export default async function SobrePage() {
   let stats = { products: 0, brands: 0 }
   try {
-    const [products, brands] = await Promise.all([
+    ;[stats.products, stats.brands] = await Promise.all([
       db.product.count({ where: { active: true } }),
       db.brand.count(),
     ])
-    stats = { products, brands }
   } catch { /* fallback */ }
 
   return (

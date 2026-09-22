@@ -2,8 +2,6 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   reactStrictMode: false,
-  // NÃO use output: 'standalone' na Vercel — isso é para Docker/self-host.
-  // A Vercel gerencia o runtime sozinha; standalone pode gerar 404 em todas as rotas.
   async redirects() {
     return [
       // marca Ziggy foi fundida com ZGY Brasil (mesma marca)
